@@ -18,7 +18,7 @@ keywords:
 author:
   display_name: "UseMyTools"
 draft: "false"
-description: "Documentation guide of UseMyTools.Net tools. Smart Motor, Water Tank Storage level monitor and controller are our smart home tools. Our free internet tools include Strong Password Generator, Time and Data, world Clock, AES encryption, MY IP, measurements and conversion."
+description: "UseMyTools Documentation guide of UseMyTools.Net tools. Smart Motor, Water Tank Storage level monitor and controller are our smart home tools. Our free internet tools include Strong Password Generator, Time and Data, world Clock, AES encryption, MY IP, measurements and conversion."
 title: "Automation Tools - UseMyTools.Net"
 linktitle: "Automation Tools"
 menu:
