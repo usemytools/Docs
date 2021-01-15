@@ -4,7 +4,7 @@ author:
   display_name: "UseMyTools"
 draft: "false"
 toc: true
-title: "Installation"
+title: "Installation -UseMyTools"
 linktitle: "Installation"
 menu:
   docs:
