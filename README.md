@@ -4,7 +4,7 @@ This Github repository is the source code of UseMyTools.Net  [Smart Automation T
 
 
 # Resources #
-[UseMyTools.Net](https://usemytools.net) | [Docs](https://usemytools.net) | [Tools](https://usemytools.net/tools/) | [Blog](https://usemytools.net/blog/)
+[UseMyTools.Net](https://usemytools.net) | [Shop](https://shop.usemytools.net/) | [Docs](https://usemytools.net) | [Tools](https://usemytools.net/tools/) | [Blog](https://usemytools.net/blog/)
 
 
 ## Credit
