@@ -1,7 +1,7 @@
 ---
 date: "2019-10-11"
 author:
-  display_name: "xwiki:XWiki.farooqsheikh"
+  display_name: "UseMyTools"
 draft: "false"
 categories:
 - "fundamentals"

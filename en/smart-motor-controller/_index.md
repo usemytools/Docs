@@ -11,7 +11,7 @@ keywords:
 - "mobile motor controller"
 - "motor controller ON OFF Switch"
 author:
-  display_name: "xwiki:XWiki.farooqsheikh"
+  display_name: "UseMyTools"
 draft: "false"
 description: "Wiki guide to smart motor controller - Quick, easy and simple way to automate your house water pump motor and control it from your mobile/tablet or PC. It has built-in timers to automate motor ON/OFF schedules."
 title: "Smart Motor Controller"
