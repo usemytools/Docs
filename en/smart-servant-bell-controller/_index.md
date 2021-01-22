@@ -15,7 +15,7 @@ author:
   display_name: "UseMyTools"
 draft: "false"
 description: "Wiki guide to smart servant bell controller - make your home servant (guard) room bell smart and control it from your mobile/tablet or PC. I has built-in timers to automate servant bell ON/OFF schedules."
-title: "Smart Switch Controller"
+title: "Smart Servant Bell Controller"
 linktitle: "Smart Servant Bell Controller"
 menu:
   docs:
