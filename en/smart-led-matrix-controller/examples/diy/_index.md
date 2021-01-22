@@ -10,7 +10,8 @@ linktitle: "DIY Examples"
 Summary: "This section describes some DIY examples/projects of Smart Led Matrix Controller."
 menu:
   docs:
-    parent: "Smart Led Matrix Controller"
+    identifier: "smc-diy"
+    parent: "smc-examples"
     weight: "2"
 lastmod: "2021-01-20"
 layout: base-home

@@ -10,6 +10,7 @@ linktitle: "Examples"
 Summary: "This section describes some basic and advanced examples of Smart Led Matrix Controller."
 menu:
   docs:
+    identifier: "smc-examples"
     parent: "Smart Led Matrix Controller"
     weight: "2"
 lastmod: "2021-01-20"

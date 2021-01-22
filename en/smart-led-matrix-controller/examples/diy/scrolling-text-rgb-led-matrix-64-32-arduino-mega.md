@@ -8,7 +8,8 @@ title: "Scrolling Text On RGB Led Matrix 64x32 Using Arduino Mega"
 linktitle: "Scrolling Text On RGB Led Matrix 64x32 Using Arduino Mega"
 menu:
   docs:
-    parent: "DIY Examples"
+    identifier: "smc-scrolling-text-rgb-led-matrix-64-32-arduino-mega"
+    parent: "smc-diy"
     weight: "01"
 lastmod: "2021-01-20"
 weight: "01"
