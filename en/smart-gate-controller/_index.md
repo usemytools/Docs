@@ -1,7 +1,7 @@
 ---
 date: "2019-10-09"
 categories:
-- "fundamentals"
+- "products"
 keywords:
 - "Smart Gate Controller"
 - "IoT Electric Gate Tank Monitor "

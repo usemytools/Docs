@@ -1,7 +1,7 @@
 ---
 date: "2019-10-09"
 categories:
-- "fundamentals"
+- "products"
 keywords:
 - "Smart Led Matrix Controller"
 - "IoT Led Matrix Panel"
