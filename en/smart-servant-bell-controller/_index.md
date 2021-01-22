@@ -21,6 +21,6 @@ menu:
   docs:
     Post: "smart-servant-bell-controller"
     parent: "Automation Tools"
-    weight: "03"
+    weight: "05"
 lastmod: "2019-05-28"
 ---
