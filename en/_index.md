@@ -26,4 +26,5 @@ menu:
     parent: ""
     weight: "01"
 lastmod: "2019-05-28"
+layout: base-root-home
 ---
