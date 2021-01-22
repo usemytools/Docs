@@ -8,20 +8,20 @@ title: "Installation -UseMyTools"
 linktitle: "Installation"
 menu:
   docs:
-    identifier: "stc-installation"
-    parent: "stc-getting-started"
+    identifier: "sgc-installation"
+    parent: "sgc-getting-started"
     weight: "02"
 lastmod: "2019-05-28"
 weight: "02"
 ---
 
-## Installing of Smart Tank Controller ##
+## Installing of Smart Gate Controller ##
 
-You can buy Smart Tank Controller from our [shop](https://shop.usemytools.net/product/smart-tank-controller/)  .
+You can buy Smart Gate Controller from our [shop](https://shop.usemytools.net/product/smart-gate-controller/)  .
 
-Please perform following steps in order to use Smart Tank:
+Please perform following steps in order to use Smart Gate:
 
-1. [Buy the Smart Tank Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
+1. [Buy the Smart Gate Controller product.](https://shop.usemytools.net/product/smart-gate-controller/)
 1. Plugin the device to power socket.
 1. Setup the One Time configuration of device.
 1. Setup the Configuration of device with your tank configure.
@@ -51,11 +51,11 @@ Please perform following steps in order to use Smart Tank:
 * Now access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
 
 
-### Step 3 - Configure the device with your tank settings ###
+### Step 3 - Configure the device with your electric gate settings ###
 
   * Access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
   * Go to device configure under `Settings` menu
-  * Setup the device with your tank configurations like
-    * Tank Height
-    * Tank Full Threshold Limit
-    * Tank Empty Threshold Limit
+  * Setup the device with your electric gate configurations like
+    * Gate Name
+    * Gate Notification
+    * Gate Electric Press Time
