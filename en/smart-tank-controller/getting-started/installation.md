@@ -21,7 +21,7 @@ You can buy Smart Tank Controller from our [shop](https://shop.usemytools.net/p
 
 Please perform following steps in order to use Smart Tank:
 
-1. [Buy the Smart Motor Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
+1. [Buy the Smart Tank Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
 1. Plugin the device to power socket.
 1. Setup the One Time configuration of device.
 1. Setup the Configuration of device with your tank configure.
