@@ -19,7 +19,7 @@ menu:
   docs:
     Post: "smart-led-matrix-controller"
     parent: "Automation Tools"
-    weight: "06"
+    weight: "09"
 lastmod: "2021-01-20"
-weight: "08"
+weight: "09"
 ---
