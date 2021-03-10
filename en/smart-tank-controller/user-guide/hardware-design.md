@@ -5,6 +5,7 @@ author:
 draft: "false"
 toc: true
 title: "Smart Tank Controller – Hardware Design"
+description: "This section describes high level hardware design of Smart water storage tank level Controller and monitor."
 linktitle: "Hardware Design"
 menu:
   docs:

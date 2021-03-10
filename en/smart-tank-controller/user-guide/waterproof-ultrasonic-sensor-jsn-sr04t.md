@@ -5,6 +5,7 @@ author:
 draft: "false"
 toc: true
 title: "Smart Tank Controller – Waterproof Ultrasonic Sensor JSN-SR04T"
+description: "This section describes data sheet of Waterproof Ultrasonic Sensor JSN-SR04T used at Smart water storage tank level Controller and monitor."
 linktitle: "Waterproof Ultrasonic Sensor JSN-SR04T"
 menu:
   docs:

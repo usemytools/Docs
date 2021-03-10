@@ -5,6 +5,7 @@ author:
 draft: "false"
 toc: true
 title: "Smart Tank Controller – Device Installation"
+description: "This section describes how to install Smart water storage tank level Controller and monitor."
 linktitle: "Device Installation"
 menu:
   docs:
