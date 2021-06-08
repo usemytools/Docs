@@ -18,4 +18,4 @@ weight: "2"
 
 Following are key features of this release of Smart Motor Controller.
 
-* Support High Ampere water motor pump upto 4.0HP (16A).
+* Support High Ampere water motor pump upto 4.0HP (16A)
