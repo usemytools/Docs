@@ -17,11 +17,11 @@ weight: "02"
 
 ## Installing of Smart Tank Controller ##
 
-You can buy Smart School Bell Controller from our [shop](https://shop.usemytools.net/product/smart-shool-bell-controller/)  .
+You can buy Smart School Bell Controller from our [shop](https://shop.usemytools.net/product/smart-school-bell-controller/)  .
 
 Please perform following steps in order to use Smart Tank:
 
-1. [Buy the Smart School Bell Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
+1. [Buy the Smart School Bell Controller product.](https://shop.usemytools.net/product/smart-school-bell-controller/)
 1. Plugin the device to power socket.
 1. Setup the One Time configuration of device.
 1. Setup the device timers configuration.
@@ -39,7 +39,7 @@ Please perform following steps in order to use Smart Tank:
 * Go to device settings to configure device timers at [http://192.168.11.1/settings](http://192.168.11.1/settings)
 * Use the Device. That's it.
 
-### Connect with the Device Existing Wifi Network ###
+### Connect with the Device with your Wifi Network ###
 
 * Open browser and access device at [http://192.168.11.1/](http://192.168.11.1/)
 * Go to device settings at [http://192.168.11.1/settings](http://192.168.11.1/settings)
@@ -54,9 +54,9 @@ Please perform following steps in order to use Smart Tank:
 ### Configure the Device Internet ###
 
 * Open browser and access device configure at [http://192.168.11.1/](http://192.168.11.1/)
-* Select your Home Wifi Access point
-* Provide Password to your Home Wifi Access point
-* Save Configuration and Device will restart and connect with your Home Wifi.
+* Select your Wifi Access point
+* Provide Password to your Wifi Access point
+* Save Configuration and Device will restart and connect with your Wifi network.
 
 ### Step 2 - Assign Static IP Address from your Home Router to your device ###
 
@@ -69,4 +69,4 @@ Please perform following steps in order to use Smart Tank:
 
   * Access your device from assigned static address [http://192.168.10.11/](http://192.168.10.11/
   * Go to device configure under `Settings` menu
-  * Setup the device timers 
+  * Setup the device timers
