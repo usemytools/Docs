@@ -15,6 +15,7 @@ keywords:
 - "Water Level Indicator"
 - "Wireless Tank Controller"
 - "Automatic Tank Controller"
+- "Automatic School Bell Timmer"
 author:
   display_name: "UseMyTools"
 draft: "false"
