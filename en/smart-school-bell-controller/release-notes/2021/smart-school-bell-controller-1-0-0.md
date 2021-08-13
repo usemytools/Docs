@@ -1,31 +1,19 @@
 ---
-date: "2019-10-11"
+date: "2020-01-23"
 author:
   display_name: "UseMyTools"
 draft: "false"
 toc: true
-title: "Product Overview"
-linktitle: "Product Overview"
+title: "Smart School Bell Controller v1.0.0"
+linktitle: "Smart School Bell Controller v1.0.0"
 menu:
   docs:
-    identifier: "scbc-product-overview"
-    parent: "scbc-getting-started"
-    weight: "01"
-lastmod: "2019-05-28"
-weight: "01"
+    identifier: "scbc-smart-school-bell-controller-1-0-0"
+    parent: "scbc-2021"
+    weight: "9"
+lastmod: "2020-01-23"
+weight: "1"
 ---
-
-## Smart School Bell Controller ##
-
-Simple and easy way to make your traditional school, hostel or any ring bell smart and control it from your mobile/tablet or PC. This is 3-in-1 smart device to control your school bell smartly.
-
-1. Wifi HotSpot – create own wifi hotspot and allow you to connect with it and control the bell.
-
-2. Existing Wifi Network – Connect with your existing wifi network (school/office router) and allow you to control the bell within your wifi network (home).
-
-3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control the bell from anywhere.
-
-Smart School bell can control nearly any traditional school bells upto 1.5-4.0HP (16A).
 
 ## Key Features ##
 
@@ -58,17 +46,7 @@ Following are advance features of Smart School Bell Controller.
 * Voice control with Google Assistant (through IFTTT).
 * [Android Mobile App](https://play.google.com/store/apps/details?id=net.usemytools.usemytoolsautomation)
 
-## System Requirements ##
 
-* Android/iOS/Table/PC with latest web browser
-* Voltage 100-250V AC
-* Max. Input Current 6.5A or upto 16.0 A
-* Max. Input Power 1100Watts (1.5HP) or upto 3000Watts (4.0HP)
-* Device Max. Power 2.0Watts
+## Minor fixes ##
 
-
-## Package Includes ##
-
-* Smart School Bell Controller Switch Box
-* Quick Start Guide
-* 6 Months Free Service Warranty
+Please consult the respective sections of our documentation for more information.

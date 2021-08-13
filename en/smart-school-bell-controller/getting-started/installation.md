@@ -17,29 +17,43 @@ weight: "02"
 
 ## Installing of Smart Tank Controller ##
 
-You can buy Smart Tank Controller from our [shop](https://shop.usemytools.net/product/smart-tank-controller/)  .
+You can buy Smart School Bell Controller from our [shop](https://shop.usemytools.net/product/smart-shool-bell-controller/)  .
 
 Please perform following steps in order to use Smart Tank:
 
-1. [Buy the Smart Tank Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
+1. [Buy the Smart School Bell Controller product.](https://shop.usemytools.net/product/smart-tank-controller/)
 1. Plugin the device to power socket.
 1. Setup the One Time configuration of device.
-1. Setup the Configuration of device with your tank configure.
+1. Setup the device timers configuration.
 1. Use the Device. That's it.
 
 ## Device One Time Configure Guide ##
 
+### Connect with the Device Wifi HotSpot ###
+
+* Plugin the device to power socket.
+* Connect with Device Wifi using your mobile
+  * Default Access Point name of the device is like **UseMyToolsNet_XXX**
+  * Default Password for Device Access Point is **12345678**
+* Open browser and access device at [http://192.168.11.1/](http://192.168.11.1/)
+* Go to device settings to configure device timers at [http://192.168.11.1/settings](http://192.168.11.1/settings)
+* Use the Device. That's it.
+
+### Connect with the Device Existing Wifi Network ###
+
+* Open browser and access device at [http://192.168.11.1/](http://192.168.11.1/)
+* Go to device settings at [http://192.168.11.1/settings](http://192.168.11.1/settings)
+* Disable Device Wi-Fi Hotspot.
 
 ### Step 1 - Connect with the Device Wifi ###
 
-* Plugin the device to power socket.
 * Connect with Device Wifi using your mobile
   * Default Access Point name of the device is like **UseMyToolsNet_XXX**
   * Default Password for Device Access Point is **12345678**
 
 ### Configure the Device Internet ###
 
-* Open browser and access device configure at [http://192.168.10.1/](http://192.168.10.1/)
+* Open browser and access device configure at [http://192.168.11.1/](http://192.168.11.1/)
 * Select your Home Wifi Access point
 * Provide Password to your Home Wifi Access point
 * Save Configuration and Device will restart and connect with your Home Wifi.
@@ -47,15 +61,12 @@ Please perform following steps in order to use Smart Tank:
 ### Step 2 - Assign Static IP Address from your Home Router to your device ###
 
 * Open your wifi roter Configuration
-* Assign static address like [http://192.168.10.10/](http://192.168.10.10/) under DHCP section.
-* Now access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
+* Assign static address like [http://192.168.10.11/](http://192.168.10.11/) under DHCP section.
+* Now access your device from assigned static address [http://192.168.10.11/](http://192.168.10.11/
 
 
-### Step 3 - Configure the device with your tank settings ###
+### Step 3 - Configure the device with your timers settings ###
 
-  * Access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
+  * Access your device from assigned static address [http://192.168.10.11/](http://192.168.10.11/
   * Go to device configure under `Settings` menu
-  * Setup the device with your tank configurations like
-    * Tank Height
-    * Tank Full Threshold Limit
-    * Tank Empty Threshold Limit
+  * Setup the device timers 

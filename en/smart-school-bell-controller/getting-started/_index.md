@@ -7,7 +7,7 @@ categories:
 - "fundamentals"
 title: "Getting Started"
 linktitle: "Getting Started"
-Summary: "This section has all basic information about smart water storage tank level monitor and controller regarding Product overview, Installation, User Guide, Releases etc.. This will help users to get started with the smart tank controller seamlessly"
+Summary: "This section has all basic information about smart school bell timers and controller regarding Product overview, Installation, User Guide, Releases etc.. This will help users to get started with the smart school bell timers and controller seamlessly"
 menu:
   docs:
     identifier: "scbc-getting-started"

@@ -7,7 +7,7 @@ categories:
 - "fundamentals"
 title: "Release Notes"
 linktitle: "Release Notes"
-Summary: "In this section you can information about all previous and new releases of Smart Tank Controller"
+Summary: "In this section you can information about all previous and new releases of Smart School Bell Controller"
 menu:
   docs:
     identifier: "scbc-release-notes"

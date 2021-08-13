@@ -5,7 +5,7 @@ author:
 draft: "false"
 title: "Release Notes - 2021"
 linktitle: "2021"
-Summary: "All Release Notes for smart tank controller published in 2021 are listed here."
+Summary: "All Release Notes for smart school bell controller published in 2021 are listed here."
 menu:
   docs:
     identifier: "scbc-2021"

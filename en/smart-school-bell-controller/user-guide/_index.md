@@ -7,8 +7,8 @@ categories:
 - "fundamentals"
 title: "User Guide"
 linktitle: "User Guide"
-Summary: "This section describes some basic and advanced features of Smart water storage tank level Controller and monitor."
-description: "User guide to install and configure smart tank controller. This section describes some basic and advanced features and settings of Smart Tank Controller."
+Summary: "This section describes some basic and advanced features of smart school bell controller and timers."
+description: "User guide to install and configure smart school bell controller and timers configuration. This section also describes some basic and advanced features and settings of Smart School Controller."
 menu:
   docs:
     identifier: "scbc-user-guide"
