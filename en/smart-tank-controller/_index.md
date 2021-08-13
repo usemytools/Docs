@@ -20,7 +20,7 @@ menu:
   docs:
     Post: "smart-tank-controller"
     parent: "Automation Tools"
-    weight: "01"
+    weight: "02"
 lastmod: "2019-05-28"
 weight: "02"
 ---

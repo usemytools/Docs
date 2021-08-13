@@ -16,7 +16,7 @@ menu:
   docs:
     Post: "smart-school-bell-controller"
     parent: "Automation Tools"
-    weight: "01"
+    weight: "03"
 lastmod: "2019-05-28"
 weight: "03"
 ---

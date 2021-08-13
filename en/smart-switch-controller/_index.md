@@ -20,7 +20,7 @@ menu:
   docs:
     Post: "smart-switch-controller"
     parent: "Automation Tools"
-    weight: "04"
+    weight: "05"
 lastmod: "2019-05-28"
 weight: "05"
 ---

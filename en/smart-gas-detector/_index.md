@@ -20,7 +20,7 @@ menu:
   docs:
     Post: "smart-gas-detector"
     parent: "Automation Tools"
-    weight: "06"
+    weight: "08"
 lastmod: "2019-05-28"
 weight: "08"
 ---
