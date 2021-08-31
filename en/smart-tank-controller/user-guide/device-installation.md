@@ -16,8 +16,17 @@ lastmod: "2020-03-09"
 weight: "1"
 ---
 
+# Smart Tank Controller - Sensor Installation with extended 6m sensor wire #
 
-# Smart Tank Controller - Device Installation #
+Smart Tank Controller sensor installation is very easy with extended 6m sensor wire. It is just like plug and play installation.
+
+Following is the device installation diagram of Smart Tank Controller with extended 6m sensor wire.
+
+{{< figure src="../smart-tank-controller-device-installation-6m-sensor-wire.png" >}}
+
+
+
+# Smart Tank Controller - Sensor Installation without extended wire #
 
 Following is the device installation diagram of Smart Tank Controller.
 
