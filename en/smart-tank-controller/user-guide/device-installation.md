@@ -24,8 +24,6 @@ Following is the device installation diagram of Smart Tank Controller with exten
 
 {{< figure src="../smart-tank-controller-device-installation-6m-sensor-wire.png" >}}
 
-
-
 # Smart Tank Controller - Sensor Installation without extended wire #
 
 Following is the device installation diagram of Smart Tank Controller.
