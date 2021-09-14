@@ -15,11 +15,11 @@ lastmod: "2019-05-28"
 weight: "02"
 ---
 
-## Installing of Smart Tank Controller ##
+## Installing of Smart School Bell Controller ##
 
 You can buy Smart School Bell Controller from our [shop](https://shop.usemytools.net/product/smart-school-bell-controller/)  .
 
-Please perform following steps in order to use Smart Tank:
+Please perform following steps in order to use Smart School Bell:
 
 1. [Buy the Smart School Bell Controller product.](https://shop.usemytools.net/product/smart-school-bell-controller/)
 1. Plugin the device to power socket.
