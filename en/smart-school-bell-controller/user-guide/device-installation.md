@@ -9,7 +9,7 @@ description: "This section describes how to install Smart school bell controller
 linktitle: "Device Installation"
 menu:
   docs:
-    identifier: "stc-device-installation"
+    identifier: "scbc-device-installation"
     parent: "scbc-user-guide"
     weight: "1"
 lastmod: "2021-09-21"
