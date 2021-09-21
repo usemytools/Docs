@@ -22,7 +22,7 @@ Smart School Bell Controller and timer installation is very easy. It is just lik
 
 Following is the device installation diagram of Smart School Bell Controller and timer v2.0.
 
-{{< figure src="../smart-school-bell-controller-hardware-installation-v10.png" >}}
+{{< figure src="../smart-school-bell-controller-hardware-installation-v20.jpg" >}}
 
 
 # Smart School Bell Controller - Device Installation v1.0 #
