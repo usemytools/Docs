@@ -8,7 +8,7 @@ title: "Smart BoreWell Motor Controller v1.0.0"
 linktitle: "Smart BoreWell Motor Controller v1.0.0"
 menu:
   docs:
-    parent: "2021"
+    parent: "sbmc-2021"
     weight: "9"
 lastmod: "2020-01-23"
 weight: "1"

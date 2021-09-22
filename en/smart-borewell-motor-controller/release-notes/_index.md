@@ -11,6 +11,7 @@ Summary: "In this section you can information about all previous and new release
 menu:
   docs:
     Post: "release-notes"
+    identifier: "sbmc-release-notes"
     parent: "Smart BoreWell Motor Controller"
     weight: "3"
 lastmod: "2019-07-16"

@@ -11,6 +11,7 @@ Summary: "This section has all basic information about smart borewell motor cont
 menu:
   docs:
     Post: "getting-started"
+    identifier: "sbmc-getting-started"
     parent: "Smart BoreWell Motor Controller"
     weight: "1"
 lastmod: "2019-07-16"
