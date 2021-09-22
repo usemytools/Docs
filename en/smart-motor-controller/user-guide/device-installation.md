@@ -24,7 +24,7 @@ Following is the device installation diagram of Smart Motor Controller and timer
 
 {{< figure src="../smart-motor-controller-hardware-installation-v20.jpg" >}}
 
-## Smart School Bell Controller - Device Installation v1.0 ##
+## Smart Motor Controller - Device Installation v1.0 ##
 
 Smart Motor Controller and timer installation is very easy. It is just like plug and play installation.
 
