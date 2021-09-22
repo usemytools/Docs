@@ -10,7 +10,7 @@ linktitle: "Getting Started"
 Summary: "This section has all basic information about smart motor controller regarding Product overview, Installation, User Guide, Releases etc.. This will help users to get started with the smart motor controller seamlessly"
 menu:
   docs:
-    Post: "getting-started"
+    identifier: "smc-getting-started"
     parent: "Smart Motor Controller"
     weight: "1"
 lastmod: "2019-07-16"

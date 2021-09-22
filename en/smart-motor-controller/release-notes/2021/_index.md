@@ -8,8 +8,8 @@ linktitle: "2021"
 Summary: "All Release Notes for smart motor controller published in 2021 are listed here."
 menu:
   docs:
-    identifier: "2021"
-    parent: "Release Notes"
+    identifier: "smc-2021"
+    parent: "smc-release-notes"
     weight: "01"
 lastmod: "2020-01-16"
 layout: base-home

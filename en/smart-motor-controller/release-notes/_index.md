@@ -9,8 +9,8 @@ title: "Release Notes"
 linktitle: "Release Notes"
 Summary: "In this section you can information about all previous and new releases of Smart Motor Controller"
 menu:
-  docs:
-    Post: "release-notes"
+  docs:    
+    identifier: "smc-release-notes"
     parent: "Smart Motor Controller"
     weight: "3"
 lastmod: "2019-07-16"

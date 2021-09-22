@@ -8,7 +8,7 @@ title: "Smart Motor Controller v1.0.0"
 linktitle: "Smart Motor Controller v1.0.0"
 menu:
   docs:
-    parent: "2021"
+    parent: "smc-2021"
     weight: "9"
 lastmod: "2020-01-23"
 weight: "1"

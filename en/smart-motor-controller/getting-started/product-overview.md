@@ -8,7 +8,7 @@ title: "Product Overview"
 linktitle: "Product Overview"
 menu:
   docs:
-    parent: "Getting Started"
+    parent: "smc-getting-started"
     weight: "01"
 lastmod: "2019-05-28"
 weight: "01"

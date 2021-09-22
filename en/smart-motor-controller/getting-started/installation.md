@@ -8,7 +8,7 @@ title: "Installation -UseMyTools"
 linktitle: "Installation"
 menu:
   docs:
-    parent: "Getting Started"
+    parent: "smc-getting-started"
     weight: "02"
 lastmod: "2019-05-28"
 weight: "02"
