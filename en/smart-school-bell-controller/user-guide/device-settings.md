@@ -20,6 +20,7 @@ weight: "1"
 
 
 We can configure Smart School Bell Controller and Timers through its settings page.
+
 **Device Menu -> Settings**
 
 {{< figure src="../smart-school-bell-controller-device-settings.jpg" >}}
@@ -30,7 +31,7 @@ This setting page is used to configure system-level settings for Smart School Be
 
 ## Device Time ##
 
-Device is using multiple sources like NTP (Network Time Protocol), UseMyTools Time API to synchronize its clock machine. We easily update and run device time synchronization through time `Update` button.
+Device is using multiple sources like, RTC (Real Time Clock), NTP (Network Time Protocol), UseMyTools Time API to synchronize its clock machine. We easily update and run device time synchronization through time `Update` button.
 
 {{< figure src="../smart-school-bell-controller-device-settings-time-update.jpg" >}}
 
@@ -98,6 +99,12 @@ This setting is used to enable/disable device wifi hotspot mode. Simply change t
 
 ---
 
+## Use Device RTC ##
+
+This settings is used to enable/disable to use device real-time clock (RTC) in wifi mode.
+
+---
+
 ## Device Name ##
 
 This setting is used to set Device Name. Enter new device name and then update it. Device Name is useful during Notification and tag your device with easy to remember name.
@@ -127,5 +134,95 @@ This setting is used to test mobile notification from the device. Make sure `Dev
 This setting is used to enable/disable IoT (internet of things) Home Automation to control device from anywhere through internet.
 
 {{< figure src="../smart-school-bell-controller-device-settings-iot.png">}}
+
+---
+
+## Import Configuration ##
+
+This settings is used to import device timers configuration and update all the timers accordingly.
+
+---
+## Export Configuration ##
+
+This settings is used to export device timers configuration.
+
+---
+
+## Bell 1 Name ##
+
+This setting is used to set Bell 1 Name.
+
+---
+
+
+## Bell 1 Press Time ##
+
+This setting is used to set the default time in second for the bell that will be pressed when ON before going back to OFF. Default is 1 second.
+
+---
+
+## Bell 1 Timer 1 ##
+
+This settings is used to enable/disable Bell 1 Timer 1 of the device.
+
+---
+
+## Bell 1 Timer 1 Start ##
+
+This settings is used to enable/disable Bell 1 Timer 1 of the device.
+
+---
+
+## Bell 1 Timer 1 Start Days ##
+
+---
+
+## Bell 1 Timer 1 Press Time ##
+
+This settings is used for Bell 1 Timer 1 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
+
+---
+
+## Bell 1 Timer 14 ##
+
+This settings is used to enable/disable Bell 1 Timer 14 of the device.
+
+---
+
+## Bell 1 Timer 14 Start ##
+
+This settings is used to enable/disable Bell 1 Timer 14 of the device.
+
+---
+
+## Bell 1 Timer 14 Start Days ##
+
+---
+
+## Bell 1 Timer 14 Press Time ##
+
+This settings is used for Bell 1 Timer 14 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
+
+---
+
+## Bell 1 Timer 28 ##
+
+This settings is used to enable/disable Bell 1 Timer 28 of the device.
+
+---
+
+## Bell 1 Timer 28 Start ##
+
+This settings is used to enable/disable Bell 1 Timer 28 of the device.
+
+---
+
+## Bell 1 Timer 28 Start Days ##
+
+---
+
+## Bell 1 Timer 28 Press Time ##
+
+This settings is used for Bell 1 Timer 28 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
 ---
