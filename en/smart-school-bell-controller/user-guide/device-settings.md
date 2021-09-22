@@ -154,7 +154,6 @@ This setting is used to set Bell 1 Name.
 
 ---
 
-
 ## Bell 1 Press Time ##
 
 This setting is used to set the default time in second for the bell that will be pressed when ON before going back to OFF. Default is 1 second.
@@ -167,17 +166,17 @@ This settings is used to enable/disable Bell 1 Timer 1 of the device.
 
 ---
 
-## Bell 1 Timer 1 Start ##
+### Bell 1 Timer 1 Start ###
 
 This settings is used to enable/disable Bell 1 Timer 1 of the device.
 
 ---
 
-## Bell 1 Timer 1 Start Days ##
+### Bell 1 Timer 1 Start Days ###
 
 ---
 
-## Bell 1 Timer 1 Press Time ##
+### Bell 1 Timer 1 Press Time ###
 
 This settings is used for Bell 1 Timer 1 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
@@ -189,17 +188,17 @@ This settings is used to enable/disable Bell 1 Timer 14 of the device.
 
 ---
 
-## Bell 1 Timer 14 Start ##
+### Bell 1 Timer 14 Start ###
 
 This settings is used to enable/disable Bell 1 Timer 14 of the device.
 
 ---
 
-## Bell 1 Timer 14 Start Days ##
+### Bell 1 Timer 14 Start Days ###
 
 ---
 
-## Bell 1 Timer 14 Press Time ##
+### Bell 1 Timer 14 Press Time ###
 
 This settings is used for Bell 1 Timer 14 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
@@ -211,17 +210,17 @@ This settings is used to enable/disable Bell 1 Timer 28 of the device.
 
 ---
 
-## Bell 1 Timer 28 Start ##
+### Bell 1 Timer 28 Start ###
 
 This settings is used to enable/disable Bell 1 Timer 28 of the device.
 
 ---
 
-## Bell 1 Timer 28 Start Days ##
+### Bell 1 Timer 28 Start Days ###
 
 ---
 
-## Bell 1 Timer 28 Press Time ##
+### Bell 1 Timer 28 Press Time ###
 
 This settings is used for Bell 1 Timer 28 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
