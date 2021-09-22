@@ -10,6 +10,7 @@ linktitle: "User Guide"
 Summary: "This section describes some basic and advanced features of Smart motor Controller."
 menu:
   docs:
+    identifier: "smc-user-guide"
     parent: "Smart Motor Controller"
     weight: "2"
 lastmod: "2019-07-16"
