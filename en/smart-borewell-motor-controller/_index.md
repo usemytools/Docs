@@ -14,7 +14,7 @@ author:
   display_name: "UseMyTools"
 draft: "false"
 description: "Wiki guide to smart borewell motor controller - Quick, easy and simple way to automate your house borewell water pump motor and control it from your mobile/tablet or PC. It has built-in timers to automate motor ON/OFF schedules."
-title: "Smart Motor Controller"
+title: "Smart BoreWell Motor Controller"
 linktitle: "Smart BoreWell Motor Controller"
 menu:
   docs:
