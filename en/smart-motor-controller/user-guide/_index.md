@@ -11,7 +11,7 @@ Summary: "This section describes some basic and advanced features of Smart motor
 menu:
   docs:
     identifier: "smc-user-guide"
-    parent: "Smart Motor Controller"
+    parent: "smart-motor-controller"
     weight: "2"
 lastmod: "2019-07-16"
 layout: base-home

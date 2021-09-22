@@ -11,7 +11,7 @@ Summary: "In this section you can information about all previous and new release
 menu:
   docs:    
     identifier: "smc-release-notes"
-    parent: "Smart Motor Controller"
+    parent: "smart-motor-controller"
     weight: "3"
 lastmod: "2019-07-16"
 weight: "3"

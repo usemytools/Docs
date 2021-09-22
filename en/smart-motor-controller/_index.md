@@ -18,7 +18,7 @@ title: "Smart Motor Controller"
 linktitle: "Smart Motor Controller"
 menu:
   docs:
-    Post: "smart-motor-controller"
+    identifier: "smart-motor-controller"
     parent: "Automation Tools"
     weight: "01"
 lastmod: "2019-05-28"

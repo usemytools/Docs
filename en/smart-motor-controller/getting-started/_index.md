@@ -11,7 +11,7 @@ Summary: "This section has all basic information about smart motor controller re
 menu:
   docs:
     identifier: "smc-getting-started"
-    parent: "Smart Motor Controller"
+    parent: "smart-motor-controller"
     weight: "1"
 lastmod: "2019-07-16"
 weight: "1"
