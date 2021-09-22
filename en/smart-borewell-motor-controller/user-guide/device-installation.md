@@ -20,14 +20,14 @@ weight: "1"
 
 Smart BoreWell Motor Controller and timer installation is very easy. It is just like plug and play installation.
 
-Following is the device installation diagram of Smart Motor Controller and timer v2.0.
+Following is the device installation diagram of Smart BoreWell Motor Controller and timer v2.0.
 
-{{< figure src="../smart-motor-controller-hardware-installation-v20.jpg" >}}
+{{< figure src="../smart-borewell-motor-controller-hardware-installation-v20.jpg" >}}
 
 ## Smart BoreWell Motor Controller - Device Installation v1.0 ##
 
 Smart BoreWell Motor Controller and timer installation is very easy. It is just like plug and play installation.
 
-Following is the device installation diagram of Smart Motor and timer v1.0.
+Following is the device installation diagram of Smart BoreWell Motor and timer v1.0.
 
-{{< figure src="../smart-motor-controller-hardware-installation-v10.jpg" >}}
+{{< figure src="../smart-borewell-motor-controller-hardware-installation-v10.jpg" >}}
