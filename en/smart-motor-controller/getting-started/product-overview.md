@@ -8,6 +8,7 @@ title: "Product Overview"
 linktitle: "Product Overview"
 menu:
   docs:
+    identifier: "smc-product-overview"
     parent: "smc-getting-started"
     weight: "01"
 lastmod: "2019-05-28"

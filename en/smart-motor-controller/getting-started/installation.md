@@ -8,6 +8,7 @@ title: "Installation -UseMyTools"
 linktitle: "Installation"
 menu:
   docs:
+    identifier: "smc-installation"
     parent: "smc-getting-started"
     weight: "02"
 lastmod: "2019-05-28"
