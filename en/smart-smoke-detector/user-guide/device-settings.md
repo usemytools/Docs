@@ -22,7 +22,7 @@ We can configure Smart Smoke Detector, Alarm and Notification through its settin
 
 **Device Menu -> Settings**
 
-{{< figure src="../smart-smoke-detector-device-settings.jpg" >}}
+{{< figure src="../smart-smoke-detector-device-settings.png" >}}
 
 This setting page is used to configure system-level settings for Smart Smoke Detector.
 
