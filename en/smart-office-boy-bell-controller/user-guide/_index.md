@@ -10,7 +10,7 @@ linktitle: "User Guide"
 Summary: "This section describes some basic and advanced features of Smart Office Boy Bell Controller."
 menu:
   docs:
-    identifier: "smd-user-guide"
+    identifier: "sobbc-user-guide"
     parent: "Smart Office Boy Bell Controller"
     weight: "2"
 lastmod: "2019-07-16"

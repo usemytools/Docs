@@ -10,7 +10,7 @@ linktitle: "User Guide"
 Summary: "This section describes some basic and advanced features of Smart Switch Controller."
 menu:
   docs:
-    identifier: "ssc-user-guide"
+    identifier: "sswc-user-guide"
     parent: "Smart Switch Controller"
     weight: "2"
 lastmod: "2019-07-16"
