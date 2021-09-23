@@ -4,8 +4,8 @@ author:
   display_name: "UseMyTools"
 draft: "false"
 toc: true
-title: "Smart Gate Controller – Device Installation"
-description: "This section describes how to install Smart gate controller and timer."
+title: "Smart Smoke Detector – Device Installation"
+description: "This section describes how to install Smart Smoke Detector, Alarm and Notification."
 linktitle: "Device Installation"
 menu:
   docs:
@@ -18,8 +18,8 @@ weight: "1"
 
 ## Smart Gate Controller - Device Installation v1.0 ##
 
-Smart Gate Controller and timer installation is very easy. It is just like plug and play installation.
+Smart Smoke Detector, Alarm and Notification installation is very easy. It is just like plug and play installation.
 
-Following is the device installation diagram of Smart Gate and timer v1.0.
+Following is the device installation diagram of Smart Smoke Detector, Alarm and Notification v1.0.
 
-{{< figure src="../smart-gate-controller-hardware-installation-v10.jpg" >}}
+{{< figure src="../smart-smoke-detector-hardware-installation-v10.jpg" >}}
