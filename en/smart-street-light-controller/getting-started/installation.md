@@ -17,11 +17,11 @@ weight: "02"
 
 ## Installing of Smart Street Light Controller ##
 
-You can buy Smart Switch Controller from our [shop](https://shop.usemytools.net/product/smart-switch-controller/)  .
+You can buy Smart Street Light Controller from our [shop](https://shop.usemytools.net/product/smart-street-light-controller/)  .
 
 Please perform following steps in order to use Smart Gate:
 
-1. [Buy the Smart Street Light Controller product.](https://shop.usemytools.net/product/smart-switch-controller/)
+1. [Buy the Smart Street Light Controller product.](https://shop.usemytools.net/product/smart-street-light-controller/)
 1. Plugin the device to power socket.
 1. Setup the One Time configuration of device.
 1. Setup the Configuration of device with your tank configure.
@@ -56,6 +56,6 @@ Please perform following steps in order to use Smart Gate:
   * Access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
   * Go to device configure under `Settings` menu
   * Setup the device regarding your appliances like
-    * Switch Name
-    * Switch Notification
-    * Switch Time Schedules
+    * Light Name
+    * Light Notification
+    * Light Time Schedules
