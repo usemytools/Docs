@@ -16,7 +16,7 @@ lastmod: "2021-09-21"
 weight: "1"
 ---
 
-## Smart Gate Controller - Device Installation v1.0 ##
+## Smart Smoke Detector, Alarm and Notification - Device Installation v1.0 ##
 
 Smart Smoke Detector, Alarm and Notification installation is very easy. It is just like plug and play installation.
 
