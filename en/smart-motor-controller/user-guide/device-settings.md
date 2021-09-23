@@ -135,3 +135,124 @@ This setting is used to enable/disable IoT (internet of things) Home Automation 
 {{< figure src="../smart-motor-controller-device-settings-iot.png">}}
 
 ---
+
+## Switch 1 Name ##
+
+This setting is used to set Switch Name. Enter new device name and then update it. Switch Name is useful during Notification and tagging to easily remember it.
+
+---
+
+
+### Tank Integration ###
+
+This settings is used to enable/disable Switch 1 integration with Tank device.
+
+---
+
+### Integrated Tank Device ###
+
+This settings is used to send notification from Switch 1 to integrated tank device.
+
+---
+
+### Integrated Tank Device Name ###
+
+This settings is used to send notification from Switch 1 to integrated tank device.
+
+---
+
+## Switch 1 Timer 1 ##
+
+This settings is used to enable/disable Switch 1 Timer 1 of the device.
+
+---
+
+## Switch 1 Timer 1 Start ##
+
+This settings is used to turn on Switch 1 Timer 1 at this timer.
+
+---
+
+## Switch 1 Timer 1 End ##
+
+This settings is used to turn off Switch 1 Timer 1 at this timer.
+
+---
+
+## Switch 1 Timer 5 ##
+
+This settings is used to enable/disable Switch 1 Timer 5 of the device.
+
+---
+
+## Switch 1 Timer 5 Start ##
+
+This settings is used to turn on Switch 1 Timer 5 at this timer.
+
+---
+
+## Switch 1 Timer 5 End ##
+
+This settings is used to turn off Switch 1 Timer 5 at this timer.
+
+---
+
+## Switch 2 Name ##
+
+This setting is used to set Switch 2 Name. Enter new name and then update it. Switch Name is useful during Notification and tagging to easily remember it.
+
+---
+
+### Tank Integration ###
+
+This settings is used to enable/disable Switch 2 integration with Tank device.
+
+---
+
+### Integrated Tank Device ###
+
+This settings is used to send notification from Switch 2 to integrated tank device.
+
+---
+
+### Integrated Tank Device Name ###
+
+This settings is used to send notification from Switch 2 to integrated tank device.
+
+---
+
+## Switch 2 Timer 1 ##
+
+This settings is used to enable/disable Switch 2 Timer 1 of the device.
+
+---
+
+## Switch 2 Timer 1 Start ##
+
+This settings is used to turn on Switch 2 Timer 1 at this timer.
+
+---
+
+## Switch 2 Timer 1 End ##
+
+This settings is used to turn off Switch 2 Timer 1 at this timer.
+
+---
+
+## Switch 2 Timer 5 ##
+
+This settings is used to enable/disable Switch 2 Timer 5 of the device.
+
+---
+
+## Switch 2 Timer 5 Start ##
+
+This settings is used to turn on Switch 2 Timer 5 at this timer.
+
+---
+
+## Switch 2 Timer 5 End ##
+
+This settings is used to turn off Switch 2 Timer 5 at this timer.
+
+---
