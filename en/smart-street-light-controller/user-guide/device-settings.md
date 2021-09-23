@@ -4,27 +4,27 @@ author:
   display_name: "UseMyTools"
 draft: "false"
 toc: true
-title: "Smart Switch Controller and Timers – Device Settings"
-description: "This section describes how to configure Smart switch Controller and timers using its settings."
+title: "Smart Street Light Controller and Timers – Device Settings"
+description: "This section describes how to configure Smart street light Controller and timers using its settings."
 linktitle: "Device Settings"
 menu:
   docs:
-    identifier: "sswc-device-settings"
-    parent: "sswc-user-guide"
+    identifier: "sslc-device-settings"
+    parent: "sslc-user-guide"
     weight: "2"
 lastmod: "2021-09-21"
 weight: "1"
 ---
 
-# Smart Switch Controller and Timers – Device Settings #
+# Smart Street Light Controller and Timers – Device Settings #
 
-We can configure Smart Switch Controller and Timers through its settings page.
+We can configure Smart Street Light Controller and Timers through its settings page.
 
 **Device Menu -> Settings**
 
-{{< figure src="../smart-switch-controller-device-settings.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings.jpg" >}}
 
-This setting page is used to configure system-level settings for Smart Switch Controller and Timers.
+This setting page is used to configure system-level settings for Smart Street Light Controller and Timers.
 
 ---
 
@@ -32,7 +32,7 @@ This setting page is used to configure system-level settings for Smart Switch Co
 
 Device is using multiple sources like, NTP (Network Time Protocol), UseMyTools Time API to synchronize its clock machine. We easily update and run device time synchronization through time `Update` button.
 
-{{< figure src="../smart-switch-controller-device-settings-time-update.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-time-update.jpg" >}}
 
 ---
 
@@ -40,7 +40,7 @@ Device is using multiple sources like, NTP (Network Time Protocol), UseMyTools T
 
 Device can easily be rebooted using `REBOOT` button.
 
-{{< figure src="../smart-switch-controller-device-settings-device-reboot.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-device-reboot.jpg" >}}
 
 Note: It is recommended to reboot this tiny device once in few days.
 
@@ -52,13 +52,13 @@ Device License can easily be update under `Device License` section.
 
 Enter `Device License` as buy from [UseMyTools shop](https://shop.usemytools.net/product/smart-license/) and then click `Update`.
 
-{{< figure src="../smart-switch-controller-device-settings-license-update.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-license-update.jpg" >}}
 
 `Note`: System will verify device license and then enable its configuration accordingly. Device will auto reboot upon license update. Therefore, device is inaccessible for few seconds.
 
 Once Device License is updated. Its information can been seen under `Device ID` section.
 
-{{< figure src="../smart-switch-controller-device-settings-license-update-info.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-license-update-info.jpg" >}}
 
 ---
 
@@ -66,7 +66,7 @@ Once Device License is updated. Its information can been seen under `Device ID` 
 
 This setting will show device Access Point SSID that can been seen during Hotspot or configuration mode.
 
-{{< figure src="../smart-switch-controller-device-settings-access-point-name.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-access-point-name.jpg" >}}
 
 ---
 
@@ -74,11 +74,11 @@ This setting will show device Access Point SSID that can been seen during Hotspo
 
 This setting will show device access point (AP) password that can used to connect with its Hotspot or during configuration mode.
 
-{{< figure src="../smart-switch-controller-device-settings-access-point-password.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-access-point-password.jpg" >}}
 
 We can change device access point (AP) password by entering new password and then click update.
 
-{{< figure src="../smart-switch-controller-device-settings-access-point-password-update.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-access-point-password-update.jpg" >}}
 
 ---
 
@@ -86,7 +86,7 @@ We can change device access point (AP) password by entering new password and the
 
 Device Internet Settings can be `reset` by using button. In this way, device will erase its last known Access Point Name and Password and enable its Hotspot to reconfigure the device network connection. This setting is useful to change device network or update existing new network credentials.
 
-{{< figure src="../smart-switch-controller-device-settings-access-point-reset-internet-settings.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-access-point-reset-internet-settings.jpg" >}}
 
 ---
 
@@ -94,7 +94,7 @@ Device Internet Settings can be `reset` by using button. In this way, device wil
 
 This setting is used to enable/disable device wifi hotspot mode. Simply change the Wi-Fi Hotspot mode and then update it.
 
-{{< figure src="../smart-switch-controller-device-settings-wi-fi-hotspot.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-wi-fi-hotspot.jpg" >}}
 
 ---
 
@@ -108,7 +108,7 @@ This settings is used to enable/disable to use device real-time clock (RTC) in w
 
 This setting is used to set Device Name. Enter new device name and then update it. Device Name is useful during Notification and tag your device with easy to remember name.
 
-{{< figure src="../smart-switch-controller-device-settings-device-name.jpg" >}}
+{{< figure src="../smart-street-light-controller-device-settings-device-name.jpg" >}}
 
 ---
 
@@ -116,7 +116,7 @@ This setting is used to set Device Name. Enter new device name and then update i
 
 This setting is used to enable/disable to send mobile notification from the device.
 
-{{< figure src="../smart-switch-controller-device-settings-notification.png">}}
+{{< figure src="../smart-street-light-controller-device-settings-notification.png">}}
 
 ---
 
@@ -124,7 +124,7 @@ This setting is used to enable/disable to send mobile notification from the devi
 
 This setting is used to test mobile notification from the device. Make sure `Device Notification` is enabled before performing this test.
 
-{{< figure src="../smart-switch-controller-device-settings-notification-test.png">}}
+{{< figure src="../smart-street-light-controller-device-settings-notification-test.png">}}
 
 ---
 
@@ -132,6 +132,6 @@ This setting is used to test mobile notification from the device. Make sure `Dev
 
 This setting is used to enable/disable IoT (internet of things) Home Automation to control device from anywhere through internet.
 
-{{< figure src="../smart-switch-controller-device-settings-iot.png">}}
+{{< figure src="../smart-street-light-controller-device-settings-iot.png">}}
 
 ---

@@ -13,7 +13,7 @@ keywords:
 author:
   display_name: "UseMyTools"
 draft: "false"
-description: "Wiki guide to smart gate controller - Quick, easy and simple way to automate your home appliances and control it from your mobile/tablet or PC. I has built-in timers to automate appliance ON/OFF schedules."
+description: "Wiki guide to smart switch controller - Quick, easy and simple way to automate your home appliances and control it from your mobile/tablet or PC. I has built-in timers to automate appliance ON/OFF schedules."
 title: "Smart Switch Controller"
 linktitle: "Smart Switch Controller"
 menu:
