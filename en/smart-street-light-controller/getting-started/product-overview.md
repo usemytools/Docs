@@ -17,24 +17,31 @@ weight: "01"
 
 ## Smart Street Light Controller ##
 
-Simple and easy device to make your home appliances smart and control it from your mobile/tablet or PC. This smart device connects to your existing home WiFi network to provide wireless control of your home appliances. Smart Switch can act like automatic wireless switch controller to control nearly any home appliances like Electric Geyser, Heater, Iron, Fridge, Washing Machine, Fan and many more.
+Simple and easy device to make your street, garden, pathway or any lights smart and control it from your mobile/tablet or PC. This is 3-in-1 smart device to control your lights smartly.
+
+1. Wifi HotSpot – create own wifi hotspot and allow you to connect with it and control the lights.
+
+2. Existing Wifi Network – Connect with your existing wifi network (home/office router) and allow you to control the light within your wifi network (home).
+
+3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control the lights from anywhere.
+
+Smart street light controller can act like automatic wireless light controller to control nearly any lights like Street Light, Car Porch Lights, Garden Lights, Pathway Lights, Home Switch Board Lights and many more.
 
 ## Key Features ##
 
-Following are key features of Smart Switch Controller.
+Following are key features of Smart Street Light Controller.
 
-* Simple Two Steps Device Installation.
-* Work with your home wifi network.
-* Built-in timer support to control appliance.
-* Simple user friendly interface to configure automatic schedules to turn ON / OFF motor at any specific times, like at 6:00am or 3:00pm.
-* Can handle multiple appliances simultaneously.
-* Rugged design for long term use.
+* Simple Plug and Play Installation
+* Work with or without internet (hotspot).
+* Has a built-in timer support to control light.
+* Has support of Sunrise and Sunset in Built-in timer. Light can be set on, before or after X minutes of Sunrise or Sunset.
+* Simple user friendly interface to configure automatic schedules to turn ON / OFF light at any specific times, like at 7:00pm or 6:00am.
 * Very low power operation.
+* Rugged design for long term use.
 * Low cost.
 * Compact size, and easy to mount.
-* Works with all traditional home appliance.
-* Support upto 6.5A Rating home appliance.
-
+* Works with all traditional lights.
+* Support upto 1.5-6.5A Rating light appliance.
 
 ## Advance Features ##
 
@@ -49,13 +56,10 @@ Following are advance features of Smart Switch Controller.
 
 ## System Requirements ##
 
-* WiFi router with 802.11b/g/n support
-Android/iOS/Table/PC with latest web browser
-* Smart Switch must be within the range of your WiFi router signals with good reception
-Android/iOS/Table/PC with latest web browser
+* Android/iOS/Table/PC with latest web browser
 * Voltage 100-250V AC
-* Max. Input Current 6.5A
-* Max. Input Power 1100Watts
+* Max. Input Current 6.5A or upto 16.0 A
+* Max. Input Power 1100Watts (1.5HP) or upto 3000Watts (4.0HP)
 * Device Max. Power 2.0Watts
 
 
