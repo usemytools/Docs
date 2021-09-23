@@ -21,7 +21,7 @@ menu:
   docs:
     Post: "smart-smoke-detector"
     parent: "Automation Tools"
-    weight: "10"
+    weight: "08"
 lastmod: "2019-05-28"
-weight: "10"
+weight: "08"
 ---

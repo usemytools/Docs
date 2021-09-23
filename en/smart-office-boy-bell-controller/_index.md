@@ -20,7 +20,7 @@ menu:
   docs:
     Post: "smart-office-boy-bell-controller"
     parent: "Automation Tools"
-    weight: "11"
+    weight: "09"
 lastmod: "2021-02-25"
-weight: "11"
+weight: "09"
 ---
