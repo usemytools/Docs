@@ -55,7 +55,7 @@ Please perform following steps in order to use Smart Gate:
 
   * Access your device from assigned static address [http://192.168.10.10/](http://192.168.10.10/
   * Go to device configure under `Settings` menu
-  * Setup the device regarding your appliances like
-    * Light Name
-    * Light Notification
-    * Light Time Schedules
+  * Setup the device regarding your lights like
+    * Switch Name
+    * Switch Notification
+    * Switch Time Schedules
