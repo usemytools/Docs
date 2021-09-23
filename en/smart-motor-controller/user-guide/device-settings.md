@@ -166,13 +166,13 @@ This settings is used to enable/disable Switch 1 Timer 1 of the device.
 
 ---
 
-#### Switch 1 Timer 1 Start ####
+### Switch 1 Timer 1 Start ###
 
 This settings is used to turn on Switch 1 Timer 1 at this timer.
 
 ---
 
-#### Switch 1 Timer 1 End ####
+### Switch 1 Timer 1 End ###
 
 This settings is used to turn off Switch 1 Timer 1 at this timer.
 
@@ -184,13 +184,13 @@ This settings is used to enable/disable Switch 1 Timer 5 of the device.
 
 ---
 
-#### Switch 1 Timer 5 Start ####
+### Switch 1 Timer 5 Start ###
 
 This settings is used to turn on Switch 1 Timer 5 at this timer.
 
 ---
 
-#### Switch 1 Timer 5 End ####
+### Switch 1 Timer 5 End ###
 
 This settings is used to turn off Switch 1 Timer 5 at this timer.
 
@@ -226,13 +226,13 @@ This settings is used to enable/disable Switch 2 Timer 1 of the device.
 
 ---
 
-#### Switch 2 Timer 1 Start ####
+### Switch 2 Timer 1 Start ###
 
 This settings is used to turn on Switch 2 Timer 1 at this timer.
 
 ---
 
-#### Switch 2 Timer 1 End ####
+### Switch 2 Timer 1 End ###
 
 This settings is used to turn off Switch 2 Timer 1 at this timer.
 
@@ -244,13 +244,13 @@ This settings is used to enable/disable Switch 2 Timer 5 of the device.
 
 ---
 
-#### Switch 2 Timer 5 Start ####
+### Switch 2 Timer 5 Start ###
 
 This settings is used to turn on Switch 2 Timer 5 at this timer.
 
 ---
 
-#### Switch 2 Timer 5 End ####
+### Switch 2 Timer 5 End ###
 
 This settings is used to turn off Switch 2 Timer 5 at this timer.
 
