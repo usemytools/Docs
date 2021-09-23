@@ -16,9 +16,9 @@ lastmod: "2021-09-21"
 weight: "1"
 ---
 
-## Smart Gas Detector - Device Installation v1.0 ##
+## Smart Gas Detector, Alarm and Notification Detector - Device Installation v1.0 ##
 
-Smart Gas Detector and timer installation is very easy. It is just like plug and play installation.
+Smart Gas Detector, Alarm and Notification installation is very easy. It is just like plug and play installation.
 
 Following is the device installation diagram of Smart Gas Detector v1.0.
 
