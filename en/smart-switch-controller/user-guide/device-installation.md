@@ -23,3 +23,12 @@ Smart Switch Controller and timer installation is very easy. It is just like plu
 Following is the device installation diagram of Smart Switch and timer v1.0.
 
 {{< figure src="../smart-switch-controller-hardware-installation-v10.jpg" >}}
+
+
+## Smart Basic Switch Controller - Device Installation v1.0 ##
+
+Smart Switch Controller and timer installation is very easy. It is just like plug and play installation.
+
+Following is the device installation diagram of Smart Switch and timer v1.0.
+
+{{< figure src="../smart-basic-switch-controller-hardware-installation-v10.jpg" >}}
