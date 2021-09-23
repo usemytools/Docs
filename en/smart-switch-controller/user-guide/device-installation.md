@@ -22,4 +22,4 @@ Smart Switch Controller and timer installation is very easy. It is just like plu
 
 Following is the device installation diagram of Smart Switch and timer v1.0.
 
-{{< figure src="../smart-gate-controller-hardware-installation-v10.jpg" >}}
+{{< figure src="../smart-switch-controller-hardware-installation-v10.jpg" >}}
