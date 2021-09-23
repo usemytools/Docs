@@ -22,7 +22,7 @@ We can configure Smart Gas Detector, Alarm and Notification through its settings
 
 **Device Menu -> Settings**
 
-{{< figure src="../smart-gas-detector-device-settings.jpg" >}}
+{{< figure src="../smart-gas-detector-device-settings.png" >}}
 
 This setting page is used to configure system-level settings for Smart Gas Detector.
 
