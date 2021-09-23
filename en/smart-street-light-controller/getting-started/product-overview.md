@@ -25,7 +25,7 @@ Simple and easy device to make your street, garden, pathway or any lights smart 
 
 3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control the lights from anywhere.
 
-Smart street light controller can act like automatic wireless light controller to control nearly any lights like Street Light, Car Porch Lights, Garden Lights, Pathway Lights, Home Switch Board Lights and many more.
+Smart street light controller can act like *automatic wireless light controller* to control nearly any lights like Street Light, Car Porch Lights, Garden Lights, Pathway Lights, Home Switch Board Lights and many more.
 
 ## Key Features ##
 
