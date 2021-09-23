@@ -22,4 +22,4 @@ Smart Gas Detector, Alarm and Notification installation is very easy. It is just
 
 Following is the device installation diagram of Smart Gas Detector v1.0.
 
-{{< figure src="../smart-gate-controller-hardware-installation-v10.jpg" >}}
+{{< figure src="../smart-gas-detector-hardware-installation-v10.jpg" >}}
