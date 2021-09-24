@@ -17,14 +17,22 @@ weight: "01"
 
 ## Smart Gate Controller ##
 
-Simple and easy device to make your home gate smart and control it from your mobile/tablet or PC. This smart device connects to your existing home WiFi network to provide wireless control of your home gate. Smart Switch can act like automatic wireless gate controller to control nearly any home electric gate.
+Simple and easy device to make your home gate smart and control it from your mobile/tablet or PC. This is 3-in-1 smart device to control your house motor smartly.
+
+1. Wifi HotSpot – create own wifi hotspot and allow you to connect with it and control the gate.
+
+2. Existing Wifi Network – Connect with your existing wifi network (home router) and allow you to control the gate within your wifi network (home).
+
+3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control the gate from anywhere.
+
+Smart Gate can act like automatic wireless gate controller to control nearly any electric gate.
 
 ## Key Features ##
 
 Following are key features of Smart Gate Controller.
 
-* Simple Two Steps Device Installation.
-* Work with your home wifi network.
+* Simple Plug and Play Installation
+* Work with or without internet (hotspot).
 * Built-in timer support to control gate.
 * Simple user friendly interface to configure automatic * schedules to turn OPEN gate at any specific times, like at 6:00am or 3:00pm.
 * Rugged design for long term use.
@@ -47,15 +55,16 @@ Following are advance features of Smart Gate Controller.
 
 ## System Requirements ##
 
-* WiFi router with 802.11b/g/n support
-Android/iOS/Table/PC with latest web browser
-* Smart Gate Device must be within the range of your WiFi router signals with good reception
+* Android/iOS/Table/PC with latest web browser
 * Voltage 100-250V AC
+* Max. Input Current 6.5A
+* Max. Input Power 1100Watts
 * Device Max. Power 2.0Watts
 
 
 ## Package Includes ##
 
-* Smart Gate Controller Switch Box with wire
+* Smart Gate Controller Switch Box
 * Quick Start Guide
 * 6 Months Free Service Warranty
+* 100% Money Back Guarantee within 7 Days of Return

@@ -19,8 +19,8 @@ weight: "1"
 
 Following are key features of this release of Smart Gate Controller.
 
-* Simple Two Steps Device Installation.
-* Work with your home wifi network.
+* Simple Plug and Play Installation
+* Work with or without internet (hotspot).
 * Built-in timer support to control gate.
 * Simple user friendly interface to configure automatic schedules to turn OPEN gate at any specific times, like at 6:00am or 3:00pm.
 * Rugged design for long term use.
