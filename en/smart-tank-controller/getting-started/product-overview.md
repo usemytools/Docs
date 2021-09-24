@@ -17,7 +17,15 @@ weight: "01"
 
 ## Smart Tank Controller ##
 
-Simple and easy way to control and monitor your water storage tank level from your mobile/tablet or PC. This smart device connects to your existing home WiFi network to provide wireless control of your water storage tank. Smart Tank can control and monitor nearly any traditional storage tank (Top or Underground).
+Simple, smart, automatic and easy way to control and monitor your water storage tank level from your mobile/tablet or PC. Smart Wireless Water Tank Level Monitor and Controller is 3-in-1 device to control and monitor your water storage tank smartly and integrate it with your motor.
+
+1. Wifi HotSpot – create own wifi hotspot and allow you to connect with it and control and monitor water tank level.
+
+2. Home Wifi Network – Connect with your home existing wifi network (router) and allow you to monitor your water storage tank within your home network.
+
+3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control and monitor the device from anywhere.
+
+Smart Tank can control and monitor nearly any traditional storage tank (Top or Underground) and can integerate it with any traditional water motor (donkey, mono block, borewell, missile or submersible) pump.
 
 ## Key Features ##
 
@@ -26,7 +34,7 @@ Following are key features of Smart Motor Controller.
 * Easy Sensor Installation.
 * Use waterproof sensor for long term use.
 * Simple Two Steps Device Installation.
-* Work with your home wifi network.
+* Work with or without internet (hotspot).
 * Accurate reading.
 * Simple and Easy user friendly interface to configure water storage tank.
 * Rugged design for long term use.
@@ -49,8 +57,6 @@ Following are advance features of Smart Motor Controller.
 
 ## System Requirements ##
 
-* WiFi router with 802.11b/g/n support
-* Device must be within the range of your WiFi router signals with good reception
 * Android/iOS/Table/PC with latest web browser
 * Input Voltage 100-250V AC
 * Max. Current 5V DC =~ 0.2mA
@@ -63,3 +69,4 @@ Following are advance features of Smart Motor Controller.
 * Waterproof Tank Storage Level Sensor Box
 * Quick Start Guide
 * 6 Months Free Service Warranty
+* 100% Money Back Guarantee within 7 days of return.

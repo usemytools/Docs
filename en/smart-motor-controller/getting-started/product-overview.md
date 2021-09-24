@@ -17,14 +17,22 @@ weight: "01"
 
 ## Smart Motor Controller ##
 
-Simple and easy way to make your traditional water pump smart and control it from your mobile/tablet or PC. This smart device connects to your existing home WiFi network to provide wireless control of your water pump motor. Smart Motor can act like automatic wireless water pump controller switch to control nearly any traditional water motor (donkey or mono block) pump upto 1.5HP.
+Simple and easy way to make your traditional water pump smart and control it from your mobile/tablet or PC. This is 3-in-1 smart device to control your house motor smartly.
+
+1. Wifi HotSpot – create own wifi hotspot and allow you to connect with it and control the motor.
+
+2. Existing Wifi Network – Connect with your existing wifi network (home router) and allow you to control the motor within your wifi network (home).
+
+3. IoT Ready- Connect with the internet and make your device IoT ready and allow you to control the motor from anywhere.
+
+Smart Motor can control nearly any traditional water motor (donkey or mono block) pump upto 4.0HP (16A).
 
 ## Key Features ##
 
 Following are key features of Smart Motor Controller.
 
-* Simple Two Steps Device Installation.
-* Work with your home wifi network.
+* Simple Plug and Play Installation
+* Work with or without internet (hotspot).
 * Built-in timer support to control motor.
 * Simple user friendly interface to configure automatic schedules to turn ON / OFF motor at any specific times, like at 6:00am or 3:00pm.
 * Can handle multiple motors simultaneously.
@@ -49,17 +57,16 @@ Following are advance features of Smart Motor Controller.
 
 ## System Requirements ##
 
-* WiFi router with 802.11b/g/n support
-* Motor pump must be within the range of your WiFi router signals with good reception
 * Android/iOS/Table/PC with latest web browser
 * Voltage 100-250V AC
-* Max. Input Current 6.5A or upto 16.0 A
-* Max. Input Power 1100Watts (1.5HP) or upto 3000Watts (4.0HP)
+* Max. Input Current upto 16.0 A
+* Max. Input Power upto 3000Watts (4.0HP)
 * Device Max. Power 2.0Watts
 
 
 ## Package Includes ##
 
-* Smart Motor Controller Switch Box with wire
+* Smart Motor Controller Switch Box
 * Quick Start Guide
 * 6 Months Free Service Warranty
+* 100% Money Back Guarantee within 7 days of return.
