@@ -103,6 +103,8 @@ This setting is used to enable/disable device wifi hotspot mode. Simply change t
 
 This settings is used to enable/disable to use device real-time clock (RTC) in wifi mode.
 
+{{< figure src="../smart-school-bell-controller-device-settings-device-rtc.jpg" >}}
+
 ---
 
 ## Device Name ##
@@ -141,10 +143,14 @@ This setting is used to enable/disable IoT (internet of things) Home Automation 
 
 This settings is used to import device timers configuration and update all the timers accordingly.
 
+{{< figure src="../smart-school-bell-controller-device-settings-device-timers-import-configuration.jpg">}}
+
 ---
 ## Export Configuration ##
 
 This settings is used to export device timers configuration.
+
+{{< figure src="../smart-school-bell-controller-device-settings-device-timers-export-configuration.jpg">}}
 
 ---
 
@@ -152,11 +158,15 @@ This settings is used to export device timers configuration.
 
 This setting is used to set Bell 1 Name.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-name.jpg">}}
+
 ---
 
 ## Bell 1 Press Time ##
 
 This setting is used to set the default time in second for the bell that will be pressed when ON before going back to OFF. Default is 1 second.
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-press-time.jpg">}}
 
 ---
 
@@ -164,15 +174,21 @@ This setting is used to set the default time in second for the bell that will be
 
 This settings is used to enable/disable Bell 1 Timer 1 of the device.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-press-time.jpg">}}
+
 ---
 
 ### Bell 1 Timer 1 Start ###
 
 This settings is used to enable/disable Bell 1 Timer 1 of the device.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-start-time.jpg">}}
+
 ---
 
 ### Bell 1 Timer 1 Start Days ###
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer1-start-time-days-of-weeks.jpg">}}
 
 ---
 
@@ -180,11 +196,15 @@ This settings is used to enable/disable Bell 1 Timer 1 of the device.
 
 This settings is used for Bell 1 Timer 1 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer1-press-time.jpg">}}
+
 ---
 
 ## Bell 1 Timer 14 ##
 
 This settings is used to enable/disable Bell 1 Timer 14 of the device.
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer14.jpg">}}
 
 ---
 
@@ -192,9 +212,13 @@ This settings is used to enable/disable Bell 1 Timer 14 of the device.
 
 This settings is used to enable/disable Bell 1 Timer 14 of the device.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer14-start-time.jpg">}}
+
 ---
 
 ### Bell 1 Timer 14 Start Days ###
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer14-start-time-days-of-weeks.jpg">}}
 
 ---
 
@@ -202,11 +226,15 @@ This settings is used to enable/disable Bell 1 Timer 14 of the device.
 
 This settings is used for Bell 1 Timer 14 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer14-press-time.jpg">}}
+
 ---
 
 ## Bell 1 Timer 28 ##
 
 This settings is used to enable/disable Bell 1 Timer 28 of the device.
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-press-time.jpg">}}
 
 ---
 
@@ -214,14 +242,20 @@ This settings is used to enable/disable Bell 1 Timer 28 of the device.
 
 This settings is used to enable/disable Bell 1 Timer 28 of the device.
 
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer28.jpg">}}
+
 ---
 
 ### Bell 1 Timer 28 Start Days ###
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer28-start-time-days-of-weeks.jpg">}}
 
 ---
 
 ### Bell 1 Timer 28 Press Time ###
 
 This settings is used for Bell 1 Timer 28 to set the time duration in second for the bell that will be pressed ON before going back to OFF. Default Bell press time settings will applied if zero.
+
+{{< figure src="../smart-school-bell-controller-device-settings-bell1-timer28-press-time.jpg">}}
 
 ---
