@@ -135,3 +135,70 @@ This setting is used to enable/disable IoT (internet of things) Home Automation 
 {{< figure src="../smart-gas-detector-device-settings-iot.png">}}
 
 ---
+
+## Gas Leakage Detection Parameter ##
+
+This settings is used to set which sensor parameter will be used for Gas Leakage Detection.
+
+`Example: If Sensor Value is set then I will use raw sensor value for Gas Leakage Detection. You can also set PPM (Parts-per-million which is the ratio of one gas to another). Default is 'Sensor Value'.`
+
+---
+
+## Sensor Threshold Value for Gas Detection ##
+
+This settings is used to consider gas leakage detection if sensor value is above this threshold limit.
+
+`Example: If you enter 200 then system will assume gas leackage detection when sensor value is above 200 and Gas Leakage Detection Parameter is set to 'Sensor Value'. Default Value is 200.`
+
+---
+
+## PPM Threshold Value for Gas Detection ##
+
+This settings is used to consider gas leakage detection if PPM value is above this threshold limit. PPM (Parts-per-million which is the ratio of one gas to another).
+
+`Example: If you enter 2000 then system will assume gas leackage detection when sensor PPM value is above 2000 and Gas Leakage Detection Parameter is set to 'PPM Value'. Default Value is 2000.`
+
+---
+
+## Room Ro Value ##
+
+This settings is used for measurement of PPM calculation. R0 is the resistance of the sensor at a known concentration without the presence of other gases, or in fresh air.
+
+
+---
+
+## Room Ro Value - Auto calculate ##
+
+This button is used to auto calculate the measurement of PPM. R0 is the resistance of the sensor at a known concentration without the presence of other gases, or in fresh air.
+
+`Please Keep the Gas Sensor in clean air environment before using auto calculate method method. Default Ro value is 5.00`
+
+---
+
+## PPM M Value ##
+
+This settings is used during PPM calculation(for Slop). Default is -0.318.
+
+`Kindly throughly read Sensor Sensitivity Characteristics before changing it otherwise keep use default value.`
+
+---
+
+## PPM B Value ##
+
+This settings is used during PPM calculation(for Y-Intercept). Default is 1.133
+
+`Kindly throughly read Sensor Sensitivity Characteristics before changing it otherwise keep use default value.`
+
+---
+
+## Consecutive Notification Wait Time ##
+
+This settings is used to set the wait limit before consecutive notification during Gas Leackage Detection. Default value is 5 minutes.
+
+---
+
+## Buzzer Notification ##
+
+This settings is used to enable/disable to Buzzer notification from the device.
+
+---
