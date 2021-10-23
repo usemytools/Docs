@@ -90,20 +90,6 @@ Device Internet Settings can be `reset` by using button. In this way, device wil
 
 ---
 
-## Device Wi-Fi Hotspot ##
-
-This setting is used to enable/disable device wifi hotspot mode. Simply change the Wi-Fi Hotspot mode and then update it.
-
-{{< figure src="../smart-gas-detector-device-settings-wi-fi-hotspot.jpg" >}}
-
----
-
-## Use Device RTC ##
-
-This settings is used to enable/disable to use device real-time clock (RTC) in wifi mode.
-
----
-
 ## Device Name ##
 
 This setting is used to set Device Name. Enter new device name and then update it. Device Name is useful during Notification and tag your device with easy to remember name.
