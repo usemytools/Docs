@@ -12,7 +12,7 @@ menu:
     parent: "scbc-2021"
     weight: "7"
 lastmod: "2021-12-13"
-weight: "3"
+weight: "7"
 ---
 
 ## Key Features ##
