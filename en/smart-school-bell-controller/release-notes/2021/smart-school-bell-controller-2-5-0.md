@@ -10,7 +10,7 @@ menu:
   docs:
     identifier: "scbc-smart-school-bell-controller-2-5-0"
     parent: "scbc-2021"
-    weight: "8"
+    weight: "7"
 lastmod: "2021-12-13"
 weight: "3"
 ---
